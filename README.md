@@ -1,2 +1,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-yeonjung&count_private=true&show_icons=true&title_color=dfdfdd&icon_color=6789ca&text_color=a4a199&bg_color=455f54)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-yeonjung&count_private=true&show_icons=true&title_color=dfdfdd&icon_color=6789ca&text_color=a4a199&bg_color=454545)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-yeonjung&theme=tokyonight&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
